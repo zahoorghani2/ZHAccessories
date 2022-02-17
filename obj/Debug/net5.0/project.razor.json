@@ -1,5 +1,5 @@
 {
-  "FilePath": "/Users/zahoorghani/Desktop/Projects/zhaccessories1/ZHAccessories/EC.csproj",
+  "FilePath": "/Users/programmersforce/Desktop/EC clone/ZHAccessories/EC.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "5.0",
@@ -15619,43 +15619,43 @@
   "RootNamespace": "EC",
   "Documents": [
     {
-      "FilePath": "/Users/zahoorghani/Desktop/Projects/zhaccessories1/ZHAccessories/Views/_ViewImports.cshtml",
+      "FilePath": "/Users/programmersforce/Desktop/EC clone/ZHAccessories/Views/_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/zahoorghani/Desktop/Projects/zhaccessories1/ZHAccessories/Views/Shared/Error.cshtml",
-      "TargetPath": "Views\\Shared\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/zahoorghani/Desktop/Projects/zhaccessories1/ZHAccessories/Views/Shared/_ValidationScriptsPartial.cshtml",
+      "FilePath": "/Users/programmersforce/Desktop/EC clone/ZHAccessories/Views/Shared/_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/zahoorghani/Desktop/Projects/zhaccessories1/ZHAccessories/Views/Shared/_My_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_My_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/zahoorghani/Desktop/Projects/zhaccessories1/ZHAccessories/Views/Shared/_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/zahoorghani/Desktop/Projects/zhaccessories1/ZHAccessories/Views/_ViewStart.cshtml",
+      "FilePath": "/Users/programmersforce/Desktop/EC clone/ZHAccessories/Views/_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/zahoorghani/Desktop/Projects/zhaccessories1/ZHAccessories/Views/Home/Privacy.cshtml",
+      "FilePath": "/Users/programmersforce/Desktop/EC clone/ZHAccessories/Views/Home/Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/zahoorghani/Desktop/Projects/zhaccessories1/ZHAccessories/Views/Home/Index.cshtml",
+      "FilePath": "/Users/programmersforce/Desktop/EC clone/ZHAccessories/Views/Home/Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/programmersforce/Desktop/EC clone/ZHAccessories/Views/Shared/_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/programmersforce/Desktop/EC clone/ZHAccessories/Views/Shared/_My_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_My_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/programmersforce/Desktop/EC clone/ZHAccessories/Views/Shared/Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
     }
   ],
