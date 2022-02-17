@@ -20,6 +20,7 @@ namespace EC.Controllers
 
         public IActionResult Index()
         {
+            // ok
             return View();
         }
 
